@@ -58,7 +58,7 @@ Subtracting the elevation model from the surface model yields the height of ever
 
 <img src="ADU_Buildout_SLC_Memo_files/media/image2.jpg" style="width:3.95833in;height:3.95833in" />
 
-*Figure 2. Original 270-image NAIP mosaic of Salt Lake City.*
+*Figure 2. Original 270-image NAIP mosaic of Salt Lake City. Imagery: © 2026 HxGN Content Program, Hexagon.*
 
 <img src="ADU_Buildout_SLC_Memo_files/media/image3.jpg" style="width:4.375in;height:3.38542in" />
 
@@ -86,7 +86,7 @@ The last two categories are the ones used to calculate ADU buildout and siting. 
 
 <img src="ADU_Buildout_SLC_Memo_files/media/image5.png" style="width:1.82292in;height:1.60417in" />
 
-*Figure 4. Example of classified ADU backyards, with land cover legend.*
+*Figure 4. Example of classified ADU backyards, with land cover legend. Imagery: © 2026 HxGN Content Program, Hexagon.*
 
 # **IV. Reliability of the classification**
 
